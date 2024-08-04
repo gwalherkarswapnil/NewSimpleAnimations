@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  Animations
 //
-//  Created by Brian Advent on 07/10/2016.
-//  Copyright © 2016 Brian Advent. All rights reserved.
 //
 
 import UIKit
